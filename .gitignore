@@ -1,0 +1,11 @@
+# FILE TYPES
+*.json
+*.env
+*.pickle
+
+# FOLDERS
+__pycache__/
+NotMyCode/
+
+# FILES
+Project Ideas.txt
