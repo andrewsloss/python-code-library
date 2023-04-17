@@ -1,11 +1,12 @@
 # FILE TYPES
-*.json
 *.env
+*.json
 *.pickle
+*.pyc
 
 # FOLDERS
-__pycache__/
 NotMyCode/
+__pycache__/
 
 # FILES
 Project Ideas.txt
