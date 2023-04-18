@@ -5,7 +5,7 @@
 *.pyc
 
 # FOLDERS
-NotMyCode/
+-RefrenceCode-/
 __pycache__/
 
 # FILES
