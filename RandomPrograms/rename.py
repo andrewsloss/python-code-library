@@ -1,7 +1,7 @@
 import os
 
-folder_path = 'F:/Mikayla Campinos'  # Update with your folder path
-prefix = 'MikaylaCampinos_'  # Update with your desired prefix
+folder_path = 'C:/'  # Update with your folder path
+prefix = 'file_'  # Update with your desired prefix
 
 counter = 1
 
