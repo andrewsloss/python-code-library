@@ -1,22 +1,22 @@
 def bytes_to_kilobytes():
     kilobytes = size
     bytes = kilobytes / 1000
-    print('Number of kilobytes = {0}'.format(bytes))
+    print(f"Number of kilobytes = {bytes}")
 
 def bytes_to_megabytes():
     megabytes = size
     bytes = megabytes / 1000000
-    print('Number of megabytes = {0}'.format(bytes))
+    print(f"Number of megabytes = {bytes}")
 
 def bytes_to_gigabytes():
     gigabytes = size
     bytes = gigabytes / 1000000000
-    print('Number of gigabytes = {0}'.format(bytes))
-
+    print(f"Number of gigabytes = {bytes}")
+    
 def bytes_to_terabytes():
     terabytes = size
     bytes = terabytes / 1000000000000
-    print('Number of terabytes = {0}'.format(bytes))
+    print(f"Number of terabytes = {bytes}")
 
 size = float(input('Enter a size in bytes:'))
 
