@@ -1,3 +1,4 @@
 - add player momentum
 - double jump
 - add sprites
+- fix teleport
